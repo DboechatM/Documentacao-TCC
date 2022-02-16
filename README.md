@@ -1,6 +1,6 @@
-# MODELAGEM DE PROPRIEDADES FÍSICO-QUÍMICAS E TERMODINÂMICAS DO ÓLEO E GÁS UTILIZANDO INTELIGÊNCIA ARTIFICIAL
-
-### DANIEL BOECHAT DE MARINS
+<p align="center">
+# Modelagem de Propriedades Físico-Químicas e Termodinâmicas do Óleo e Gás Utilizando Inteligência Artificial
+</p>
 
 
 ![alt text](https://images.pexels.com/photos/87236/pexels-photo-87236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
