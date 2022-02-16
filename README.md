@@ -57,8 +57,8 @@ Após a classificação dos modelos de previsão, o somatório com o menor valor
 | ------- | ------- | ------- |
 | Standing | 0.8511 | 0.553948 |
 | Vasquez-Beggs |  0.8002 | 0.719749 |
-| Glaso |  0.828 |  0.571705 |
-| Al-Marhoun |  0.749 |  0.804580 |
+| Glaso |  0.8280 |  0.571705 |
+| Al-Marhoun |  0.7490 |  0.804580 |
 | Petroski-Farshad |  0.7494 | 1.061715 |
 | Decision Tree |  0.8455 | 0.549201 |
 | Random Forest |  0.9149 | 0.301216 |
