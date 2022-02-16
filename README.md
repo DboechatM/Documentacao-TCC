@@ -3,7 +3,7 @@
 ### DANIEL BOECHAT DE MARINS
 
 
-![alt text] (https://images.pexels.com/photos/87236/pexels-photo-87236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+![alt text](https://images.pexels.com/photos/87236/pexels-photo-87236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 Documentação do Projeto Final apresentado ao Curso de Graduação em Engenharia Química, oferecido pelo departamento de Engenharia Química e de Petróleo da Escola de Engenharia da Universidade Federal Fluminense, como requisito parcial para obtenção do Grau de Bacharel em Engenharia Química.
 
@@ -50,7 +50,7 @@ A escolha de tais pesos foi realizada de forma a integrar tanto o grau de acurá
 
 **IKIENSIKIMAMA, S. S. e AZUBUIKE, I. I.**, *Modeling Approach for Niger-Delta Oil Formation Volume Factor Prediction Using Artificial Neural Network*, In: CONFERÊNCIA E EXPOSIÇÃO ANUAL INTERNACIONAL DA NIGÉRIA, Abuja, Nigeria, Agosto, 2012.
 
-
+<p align="center">
 | Model | R2 Adjusted Metric | Overall Points |
 | ------- | ------- | ------- |
 | Standing | 0.8511 | 0.553948 |
@@ -61,8 +61,8 @@ A escolha de tais pesos foi realizada de forma a integrar tanto o grau de acurá
 | Decision Tree |  0.8455 | 0.549201 |
 | Random Forest |  0.9149 | 0.301216 |
 | SVR | 0.9507 | 0.150000 |
-| neural Network | 0.8906 | 0.423335 |
-
+| Neural Network | 0.8906 | 0.423335 |
+</p>
 
 ## 5. Conclusion
 
