@@ -47,6 +47,8 @@ Os comparativos entre os modelos de previsão obtidos e as correlações empíri
 
 A escolha de tais pesos foi realizada de forma a integrar tanto o grau de acurácia do modelo justificado pela análise dos erros relativos e absolutos. quanto a dispersão dos erros de predição dos modelos gerados, considerando a análise dos desvios padrões e coeficiente de correlação.
 
+Após a classificação dos modelos de previsão, o somatório com o menor valor foi selecionado como o melhor previsor da propriedade PVT analisada.
+
 
 **IKIENSIKIMAMA, S. S. e AZUBUIKE, I. I.**, *Modeling Approach for Niger-Delta Oil Formation Volume Factor Prediction Using Artificial Neural Network*, In: CONFERÊNCIA E EXPOSIÇÃO ANUAL INTERNACIONAL DA NIGÉRIA, Abuja, Nigeria, Agosto, 2012.
 
@@ -60,7 +62,7 @@ A escolha de tais pesos foi realizada de forma a integrar tanto o grau de acurá
 | Petroski-Farshad |  0.7494 | 1.061715 |
 | Decision Tree |  0.8455 | 0.549201 |
 | Random Forest |  0.9149 | 0.301216 |
-| SVR | 0.9507 | 0.150000 |
+| **SVR** | **0.9507** | **0.150000** |
 | Neural Network | 0.8906 | 0.423335 |
 
 
