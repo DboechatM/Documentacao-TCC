@@ -53,7 +53,7 @@ Após a classificação dos modelos de previsão, o somatório com o menor valor
 **IKIENSIKIMAMA, S. S. e AZUBUIKE, I. I.**, *Modeling Approach for Niger-Delta Oil Formation Volume Factor Prediction Using Artificial Neural Network*, In: CONFERÊNCIA E EXPOSIÇÃO ANUAL INTERNACIONAL DA NIGÉRIA, Abuja, Nigeria, Agosto, 2012.
 
 
-| Model | R2 Adjusted Metric | Overall Points |
+| Model | R2 Adjusted Metric | Overall Score |
 | ------- | ------- | ------- |
 | Standing | 0.8511 | 0.553948 |
 | Vasquez-Beggs |  0.8002 | 0.719749 |
